@@ -1,0 +1,17 @@
+.module {
+  padding: 20px;
+
+  .chart-container {
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+  }
+
+  input,
+  button,
+  .select,
+  select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
